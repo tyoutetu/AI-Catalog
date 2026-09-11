@@ -661,6 +661,7 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 ## Photo Editing
 - [Clipdrop](https://clipdrop.co)
 - [insightface.ai](https://insightface.ai)
+- [RemoveColor](https://removecolor.online) - Free browser tool that removes any specific color (solid/white backgrounds) and makes it transparent; runs locally, no uploads or signup
 
   
 ## Chrome AI Extensions
